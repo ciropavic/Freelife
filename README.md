@@ -1,6 +1,7 @@
 # Base Freelife
 
 La base freelife est une base fivem inspirée des serveurs Flashland V2 et Flashback V1 qui a été poussée pour donner la meilleure experience de jeu possible.
+
 ## Auteurs
 
 - [@FRFlo](https://www.github.com/FRFlo)
@@ -9,7 +10,6 @@ La base freelife est une base fivem inspirée des serveurs Flashland V2 et Flash
 ## License
 
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-
 
 ## Badges
 
@@ -27,3 +27,7 @@ La base freelife est une base fivem inspirée des serveurs Flashland V2 et Flash
 [FiveM](https://docs.fivem.net/docs/)
 
 [LUA](https://www.lua.org/docs.html)
+
+## Visiter le répertoire librement
+
+[VSCode](https://github1s.com/FRFlo/Freelife)
