@@ -2,6 +2,8 @@
 /FXServer.exe
 /icudtl.dat
 /components.json
+/*.crt
+/*.key
 
 /citizen
 /craches
